@@ -1,0 +1,17 @@
+
+
+/*.user--info{*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: space-between;*!*/
+/*    !*flex-wrap: wrap;*!*/
+/*    !*padding: 10px 2rem;*!*/
+/*    !*align-items: end;*!*/
+/*}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=Raleway:wght@100&display=swap');
+
+
+
+.rg_form{
+    margin-top: 50px;
+}

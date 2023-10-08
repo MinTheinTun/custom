@@ -1,0 +1,7 @@
+{
+	"name":"mintheintun/gcc",
+	"require":{
+		"php":">=8.1.17",
+		"phpmailer/phpmailer": "^6.8"
+	}
+}
